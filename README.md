@@ -10,4 +10,5 @@ The links to all the tools/datasets are as the followings:
 6. 1999-2014 annual-average PM2.5 concentrations at Census block group from empicial models: https://www.caces.us/data.
 7. Year-2010 race-ethnicity data at Census block level: https://www.nhgis.org/.
 8. Year-2020 EPA’s EJScreen (Environmental Justice Screening and Mapping Tool) data at Census block group level: https://www.epa.gov/ejscreen/overview-socioeconomic-indicators-ejscreen. (Accessed Nov 16, 2022)
+9. Crosswalk between ISRM grid and Census block: https://zenodo.org/record/7968565. (Accessed May 24, 2023)
 
